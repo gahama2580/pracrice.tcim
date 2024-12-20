@@ -1,0 +1,24 @@
+.prace {
+    float:right;
+}
+.headerlogo {
+    float:left;
+    font-size:30px;
+}
+.headimg {
+    width:150px;
+    height:120px;
+    float:left;
+}
+.header {
+    padding:0px 200px;
+}
+.icon {
+    float:right;
+}
+li {
+    list-style:none;
+    float:left;
+    padding-left:10px;
+    font-size:2em;
+}
